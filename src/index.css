@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-Russo-One: "Russo One", "sans-serif"; 
+    --font-Inter: "Inter", "sans-serif"; 
+
+    --color-2EB67D: #2EB67D;
+    --color-2B44E7: #2B44E7
+    --color-171618: #171618
+  }
